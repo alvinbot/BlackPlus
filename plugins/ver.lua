@@ -1,19 +1,19 @@
 do
 
 function run(msg, matches)
-  return [[ B L A C K +
+  return [[ alvintealm
 -----------------------------------
 A new bot for manage your Supergroups.
 -----------------------------------
-@Black_CH #Channel
+@alvinteam #Channel
 -----------------------------------
-@MehdiHS #Developer
+@alvinattacker #Developer
 -----------------------------------
-@YflQw #Manager
+@alvin #Manager
 -----------------------------------
-@Mr_Surena #Manager
+@alvin #Manager
 -----------------------------------
-Bot number : +19092545429
+Bot number : +989394456147
 -----------------------------------
 Bot version : 6.7 ]]
 end
